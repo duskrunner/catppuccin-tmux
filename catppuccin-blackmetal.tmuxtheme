@@ -4,14 +4,14 @@
 # --> Black metal
 thm_bg="#222222"
 thm_fg="#c6d0f5"
-thm_cyan="#79241f"
+thm_cyan="#5f8787"
 thm_black="#292c3c"
 thm_gray="#444444" # not active window background
-thm_magenta="#79241f"
-thm_pink="#79241f"
-thm_red="#79241f"
-thm_green="#79241f"
-thm_yellow="#79241f"
-thm_blue="#999999" # not active window
-thm_orange="79241f" # active window
+thm_magenta="#5f8787"
+thm_pink="#5f8787"
+thm_red="#5f8787"
+thm_green="#5f8787"
+thm_yellow="#5f8787"
+thm_blue="#5f8787" # not active window
+thm_orange="#79241f" # active window
 thm_black4="#626880"
